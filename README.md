@@ -12,9 +12,10 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left">
 <a href="https://www.linkedin.com//in/𝘚𝘶𝘥𝘳𝘢𝘫𝘢𝘵-🇮🇩-8b5202160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudrajat" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/19746093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/aajattt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudrajat" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ajat.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudrajat" height="30" width="40" /></a>
 
-<a href="https://www.facebook.com/aajatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudrajat" height="30" width="40" /></a>
+
 
 
 
